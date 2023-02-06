@@ -1,0 +1,37 @@
+$ para empezar una variable
+&nbsp es un espacion con HTML
+
+
+- cambiar MyISAM por INNODb
+una tabla aulas
+
+tabla relacion con id de aula y id alumno
+
+hacer grilla por aula los alumnos que tiene
+
+hago un programa que de alta un alumno nuevo
+sql para dar de alta es con insert
+
+comando para tomar el dato q viene de un formulario
+
+mirar ejemplo q me dio papa de banco para hacerlo similar
+
+grilla con alumnos q tenga boton paa dar de alta, y que al costado de cada uno tenga un boton q sea 
+para borrar
+
+// CONSULTA relacion
+
+SELECT `aulas`.`ID_Aula`, `alumnos`.`ID_Alumno`
+FROM `aulas`
+	, `alumnos`;
+
+
+	//INFO//
+
+	x  cada tabla (3) 5 archivos.
+	1 abm (grilla)
+	2 alta (form)
+	3 graba
+	4 modifica
+	5 borra
+
