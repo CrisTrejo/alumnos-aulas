@@ -14,7 +14,6 @@ sql para dar de alta es con insert
 
 comando para tomar el dato q viene de un formulario
 
-mirar ejemplo q me dio papa de banco para hacerlo similar
 
 grilla con alumnos q tenga boton paa dar de alta, y que al costado de cada uno tenga un boton q sea 
 para borrar
